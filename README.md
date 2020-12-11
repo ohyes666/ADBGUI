@@ -13,7 +13,7 @@ Electron编写的ADB图形化界面，目前只有截图，并将其下载到本
 在构建此应用之前, 你需要安装 [Node.js](https://nodejs.org).
 
 ```bash
-$ git clone https://github.com/demopark/electron-api-demos-Zh_CN
+$ git clone https://github.com/a120200793/ADBGUI.git
 $ cd electron-api-demos-Zh_CN
 $ npm install
 $ npm start
