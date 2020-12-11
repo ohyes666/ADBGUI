@@ -1,0 +1,67 @@
+/* Demo */
+
+.demo:first-of-type {
+  margin-top: 2rem;
+}
+.demo:last-of-type {
+  margin-bottom: 2rem;
+}
+@media (min-width: 940px) {
+  .demo:last-of-type {
+    margin-bottom: 4rem;
+  }
+}
+
+.demo-wrapper {
+  position: relative;
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+
+/* Demo Controls ----------------------------- */
+
+.adb-controls {
+  display: flex;
+  align-items: center;
+  margin-top: 1em;
+}
+
+.adb-button {
+  align-self: flex-start;
+  margin-right: 1em;
+  border: 2px solid;
+  border-radius: 4px;
+  font: inherit;
+  font-size: 1.2em;
+  padding: .4em 1.2em;
+  color: inherit;
+  background-color: transparent;
+}
+.adb-button:focus {
+  outline: none;
+  background-color: white;
+}
+.adb-button:active {
+  border-color: var(--color-border);
+}
+
+
+
+/* ProTip ----------------------------- */
+
+.demo-protip {
+  margin-top: 2rem;
+  padding: 1.5rem 2rem 2rem 2rem;
+  border: 1px solid hsla(0,0%,0%,.06);
+  border-radius: 6px;
+  background: var(--color-accent) linear-gradient(hsla(0,0%,100%,.85), hsla(0,0%,100%,.85));
+}
+.demo-protip h2 {
+  margin: 0 0 .5rem 0;
+}
+.demo-protip strong {
+  font-weight: 600;
+}
+
