@@ -1,6 +1,8 @@
 # ADBGUI
 Electron编写的ADB图形化界面，目前只有截图，并将其下载到本地的功能，支持Mac Windows
 
+因最近有需要大量截图的工作 为了方便自己 所以编写了此项目。功能如图。
+
 
 ![界面](hub_art/AdbGui.png)
 
