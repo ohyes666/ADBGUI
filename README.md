@@ -14,7 +14,7 @@ Electron编写的ADB图形化界面，目前只有截图，并将其下载到本
 
 ```bash
 $ git clone https://github.com/a120200793/ADBGUI.git
-$ cd electron-api-demos-Zh_CN
+$ cd ADBGUI
 $ npm install
 $ npm start
 ```
