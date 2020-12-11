@@ -19,4 +19,4 @@ $ npm start
 
 ## Base
 ### 此项目是直接在ElectronDemo中加入了新页面，操作ADB，原项目地址
-[electron-api-demos-Zh_CN]: https://github.com/demopark/electron-api-demos-Zh_CN
+[electron-api-demos-Zh_CN](https://github.com/demopark/electron-api-demos-Zh_CN)
