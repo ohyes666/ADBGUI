@@ -1,9 +1,9 @@
-# ADBGUI
+# ~~ADBGUI~~
 
  **Attention**: This tool is now deprecated. Please switch to
 [ScreenShotGUI](https://github.com/a120200793/ScreenShotGUI).
 
-没有时间学Electron，最近又要用这个小工具了，用JavaSwing重新写了一个。主要就是截图的功能，不敢起ADB Gui这么大的名字。
+没有时间学Electron，最近又要用这个小工具了，用JavaSwing重新写了一个[ScreenShotGUI](https://github.com/a120200793/ScreenShotGUI).。主要就是截图的功能，不敢起ADB Gui这么大的名字。
 
 Electron编写的ADB图形化界面，目前只有截图，并将其下载到本地的功能，支持Mac Windows
 
